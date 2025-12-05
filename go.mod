@@ -11,7 +11,7 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/mattn/go-colorable v0.1.2
 	github.com/sergi/go-diff v1.1.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/xanzy/go-gitlab v0.21.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 )
